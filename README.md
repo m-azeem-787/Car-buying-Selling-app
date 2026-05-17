@@ -32,43 +32,43 @@ Wheel Deal is a Flutter-based car buying and selling application that allows use
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/b414c0ac-a986-4393-99c2-c819fe908707" width="220"/><br>
+<img width="410" height="879" alt="image" src="https://github.com/user-attachments/assets/21f112aa-ec09-4895-8b01-8c874719734b" /><br>
 <b>Login</b>
 </td>
 
 <td align="center">
-<img src="https://github.com/user-attachments/assets/8f086f9b-7d50-49b9-8812-455d283dc402" width="220"/><br>
+<img width="412" height="870" alt="image" src="https://github.com/user-attachments/assets/7a8e1a4b-82f7-4fe3-b15f-17e33b00830e" /><br>
 <b>Home</b>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/d6aeafaa-a3da-4f79-9bc5-119fb3a02131" width="220"/><br>
+<img width="411" height="869" alt="image" src="https://github.com/user-attachments/assets/890e7761-b10f-4b1c-a432-7759ad41d88d" /><br>
 <b>Listed Car Info</b>
 </td>
 
 <td align="center">
-<img src="https://github.com/user-attachments/assets/909d32af-7369-4611-971a-9c56035f5268" width="220"/><br>
+<img width="405" height="822" alt="image" src="https://github.com/user-attachments/assets/c418b4c9-99f5-40b2-b7b8-4cdd8571a3e8" /><br>
 <b>List a Car</b>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/0c9cdb6c-1d10-4b62-8644-c47bf6c26f96" width="220"/><br>
+<img width="402" height="861" alt="image" src="https://github.com/user-attachments/assets/394e42e0-53b1-4c77-9733-ba17c9932b80" /><br>
 <b>User Profile</b>
 </td>
 
 <td align="center">
-<img src="https://github.com/user-attachments/assets/7faf6e75-cd47-4298-9066-5e1979109e53" width="220"/><br>
+<img width="405" height="857" alt="image" src="https://github.com/user-attachments/assets/0c6e0e3b-9f16-4516-9d84-f896c016f8c4" /><br>
 <b>My Listed Cars</b>
 </td>
 </tr>
 
 <tr>
 <td align="center" colspan="2">
-<img src="https://github.com/user-attachments/assets/886f9c26-bd64-411a-bf11-42d48e1e3121" width="220"/><br>
+<img width="410" height="865" alt="image" src="https://github.com/user-attachments/assets/83438145-9aa0-4090-aa2d-afd8e6b473aa" /><br>
 <b>Cars Booked</b>
 </td>
 </tr>
